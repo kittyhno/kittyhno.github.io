@@ -1,0 +1,90 @@
+header>* {
+    display: inline-block;
+    position: relative;
+    bottom: 25px;
+    width: 450px;
+}
+
+header {
+    padding: 10px 5%;
+    text-decoration: none;
+    color: #DC4A4A;
+}
+
+.pustota {
+    width: 5%;
+}
+
+a {
+    display: inline-block;
+    color: #DC4A4A;
+    background-color: #615D5D;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+}
+
+img {
+    width: 10%;
+    position: relative;
+    top: 12px;
+    right: 75px;
+}
+
+.splashscreen {
+    position: relative;
+    bottom: 25px;
+}
+
+body {
+    background-image: url(erherh.jpeg);
+    background-attachment: fixed;
+    color: #DC4A4A;
+}
+
+h1 {
+    padding: 0.5%;
+    margin: 2%;
+}
+
+.splashscreen2 {
+    position: relative;
+    right: 110px;
+    bottom: 25px;
+}
+
+.splashscreen3 {
+    position: relative;
+    right: 110px;
+    bottom: 75px;
+}
+
+.banner {
+    padding: 10px 5%;
+    margin: 50px;
+    text-align: center;
+    background-color: #292929;
+}
+
+.banner>* {
+    display: inline-block;
+    width: 650px;
+    font-size: 30px;
+    vertical-align: middle;
+    color: #DC4A4A;
+}
+
+footer {
+    padding: 2%;
+}
+
+button {
+    display: inline-block;
+    color: #DC4A4A;
+    background-color: #615D5D;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+    position: relative;
+    top: 100px;
+}
